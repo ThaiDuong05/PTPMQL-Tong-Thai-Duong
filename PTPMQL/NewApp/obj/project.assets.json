@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "N:\\PTPMQL Tong Thai Duong\\ThaiDuong PTPMQL 04\\NewApp\\NewApp.csproj",
+      "projectUniqueName": "N:\\PTPMQL Tong Thai Duong\\ThaiDuong PTPMQL 04\\PTPMQL-Tong-Thai-Duong\\NewApp\\NewApp.csproj",
       "projectName": "NewApp",
-      "projectPath": "N:\\PTPMQL Tong Thai Duong\\ThaiDuong PTPMQL 04\\NewApp\\NewApp.csproj",
+      "projectPath": "N:\\PTPMQL Tong Thai Duong\\ThaiDuong PTPMQL 04\\PTPMQL-Tong-Thai-Duong\\NewApp\\NewApp.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "N:\\PTPMQL Tong Thai Duong\\ThaiDuong PTPMQL 04\\NewApp\\obj\\",
+      "outputPath": "N:\\PTPMQL Tong Thai Duong\\ThaiDuong PTPMQL 04\\PTPMQL-Tong-Thai-Duong\\NewApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
