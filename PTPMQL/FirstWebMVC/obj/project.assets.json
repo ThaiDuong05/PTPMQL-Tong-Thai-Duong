@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "N:\\PTPMQL Tong Thai Duong\\ThaiDuong PTPMQL 04\\FirstWebMVC\\FirstWebMVC.csproj",
+      "projectUniqueName": "N:\\PTPMQL Tong Thai Duong\\ThaiDuong PTPMQL 04\\PTPMQL-Tong-Thai-Duong\\PTPMQL\\FirstWebMVC\\FirstWebMVC.csproj",
       "projectName": "FirstWebMVC",
-      "projectPath": "N:\\PTPMQL Tong Thai Duong\\ThaiDuong PTPMQL 04\\FirstWebMVC\\FirstWebMVC.csproj",
+      "projectPath": "N:\\PTPMQL Tong Thai Duong\\ThaiDuong PTPMQL 04\\PTPMQL-Tong-Thai-Duong\\PTPMQL\\FirstWebMVC\\FirstWebMVC.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "N:\\PTPMQL Tong Thai Duong\\ThaiDuong PTPMQL 04\\FirstWebMVC\\obj\\",
+      "outputPath": "N:\\PTPMQL Tong Thai Duong\\ThaiDuong PTPMQL 04\\PTPMQL-Tong-Thai-Duong\\PTPMQL\\FirstWebMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
