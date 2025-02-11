@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<img src="img_sailboat.jpg" alt="Boat" class="w3-animate-opacity" style="width:100%;min-height:200px;max-height:400px;">
+
+<div class="w3-container">
+  <h2>PTPMQL - 04 -  Tống thái Dương</h2>
+  <p>Thuyền buồm bao gồm sức đẩy của một chiếc thuyền bằng gió và lái nó trên mặt nước,
+    băng hoặc đất, tùy thuộc vào loại thủ công. Một thủy thủ quản lý lực của gió trên tàu
+    cánh buồm bằng cách điều chỉnh góc của chúng so với tàu đang chuyển động...</p>
+  <p>
+  <button onclick="document.getElementById('id01').style.display='block'" class="w3-btn">Register</button></p>
+</div>
+
+
+<form id="id01" action="/action_page.php" class="w3-modal w3-pale-yellow">
+
+<button onclick="document.getElementById('id01').style.display='none'"
+class="w3-btn w3-right w3-large w3-hover-red w3-clear">X</button>
+
+<div class="w3-clear"></div>
+
+<div class="w3-container"> 
+<h2>Class Registration</h2>
+
+<p>
+<input class="w3-input" type="text" name="first" style="width:90%" required>
+<label>Họ</label></p>
+
+<p>
+<input class="w3-input" type="text" name="last" style="width:90%" required>
+<label>Tên</label></p>
+
+<p>
+<input class="w3-radio" type="radio" name="gender" value="male" checked>
+<label>Nam giới</label></p>
+
+<p>
+<input class="w3-radio" type="radio" name="gender" value="female">
+<label>Nữ giới</label></p>
+
+<p>
+<input class="w3-radio" type="radio" name="gender" value="" disabled>
+<label>Không biết (Đã tắt)</label></p>
+
+<p>
+<button class="w3-btn w3-ripple w3-hover-green">Đăng ký</button></p>
+</div>
+
+</form>
+
+</body>
+</html> 
