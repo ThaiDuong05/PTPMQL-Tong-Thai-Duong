@@ -24,6 +24,10 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}")
     .WithStaticAssets();
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=TDD}/{action=Index}/{id?}")
+    .WithStaticAssets();
 
 
 app.Run();
